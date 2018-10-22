@@ -1,2 +1,2 @@
 # Python_Scripts
-Library to store python scripts that I've written
+Library to store useful python scripts that I've written
