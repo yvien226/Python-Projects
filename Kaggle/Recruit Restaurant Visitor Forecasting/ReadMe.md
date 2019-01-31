@@ -24,12 +24,12 @@ I would also try out a few models, and compare it with the RF model, they are :
 - LGBM: much more complex than ARIMA and RF, but it's consider by kagglers as the best model to tackle this project.
 
 ## Libraries
--numpy
--pandas
--seaborn
--matplotlib
--datetime
--scikit-learn
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- datetime
+- scikit-learn
 
 
 
