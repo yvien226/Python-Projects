@@ -3,7 +3,7 @@ Based on the kaggle competition: [link](https://www.kaggle.com/c/recruit-restaur
 
 I was given 3-5 days to work on this case study, then present my findings and solutions. It was my first attempt to tackle kaggle competition project.
 
-This folder contain the scripts that I wrote during these short period of time using jupyter notebook, they are:
+This folder contain Python scripts that I wrote during these short period of time using jupyter notebook, they are:
 - Data Exploration: Data Analysis to get an insight of the data given by Recruit Holdings who launch this competition.
 - Random Forest Prediction v1 & v2: Scripts to predict the number of visitors of each restaurant using Random Forest. 
 
@@ -23,7 +23,7 @@ I would also try out a few models, and compare it with the RF model, they are :
 - ARIMA: the most basic model for time series prediction
 - LGBM: much more complex than ARIMA and RF, but it's consider by kagglers as the best model to tackle this project.
 
-## Libraries
+## Python Libraries
 - numpy
 - pandas
 - seaborn
