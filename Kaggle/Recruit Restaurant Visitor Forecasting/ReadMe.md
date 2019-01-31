@@ -13,13 +13,23 @@ In the first attempt (v1), I use Random Forest technique from scikit-learn to pr
 In the second attempt (v2), I added a few more rolling functions as features (min, max, mean, median and count observation of each restaurant by day of week) then runs train test the model again using Random Forest technique.
 
 ## Improvements
-Obviously this isn't my final solution. If I was given some more time, I would probably explore more and perhaps will include reservation data, weather and competitor into the features. I would also attempt to adjust the day of week, in particular weekdays public holiday by substituting the day before public holiday as friday, the last day of public holiday as sunday etc. 
+Obviously this isn't my final solution. If I was given some more time, I would probably explore more and perhaps will include reservation data, weather and competitor into the features. 
+
+I would also attempt to adjust the day of week, in particular weekdays public holiday by substituting the day before public holiday as friday, the last day of public holiday as sunday etc. 
 
 The least important features should also be excluded to avoid overfitting.
 
 I would also try out a few models, and compare it with the RF model, they are :
 - ARIMA: the most basic model for time series prediction
 - LGBM: much more complex than ARIMA and RF, but it's consider by kagglers as the best model to tackle this project.
+
+## Libraries
+-numpy
+-pandas
+-seaborn
+-matplotlib
+-datetime
+-scikit-learn
 
 
 
