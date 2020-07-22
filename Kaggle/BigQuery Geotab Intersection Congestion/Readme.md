@@ -17,3 +17,4 @@ The next step is to build a prediction model.
 - matplotlib
 - plotly
 - scikit-learn
+- ggplot (pandas plotnine)
