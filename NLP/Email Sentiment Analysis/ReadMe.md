@@ -11,7 +11,7 @@ Python Script: [Read emails and basic sentiment analysis](https://github.com/yvi
     - Remove smtp mails
     - Remove signatures
     - Identify sender and receiver
-3. Text Processing: Using Spacy and NLTK to process the content of the email:
+3. Text Processing: Using Spacy to process the content of the email:
     - Remove entities (city names, person's name, geographical places)
     - Remove stopwords (I, is, you, we, for, and etc)
     - Remove punctuation (!,.-?#:)
@@ -22,7 +22,6 @@ Python Script: [Read emails and basic sentiment analysis](https://github.com/yvi
 
 ## Python Libraries
 - pandas
-- nltk
 - spacy
 - vaderSentiment
 
