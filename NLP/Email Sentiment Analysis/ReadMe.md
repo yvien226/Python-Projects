@@ -5,10 +5,10 @@ The original intention of this project is to perform sentiment analysis on my wo
 ## Script
 Python Script: [Read emails and basic sentiment analysis](https://github.com/yvien226/Useful-Python-Scripts/blob/master/NLP/Email%20Sentiment%20Analysis/Read%20emails%20and%20basic%20sentiment%20analysis.py)
 
-## Process
+## Steps
 1. Download email inbox data from outlook and save into csv file
 2. Read emails and perform data preprocessing, this includes:
-  - Remove smtp mails
+    - Remove smtp mails
   - Remove signatures
   - Identify sender and receiver
 3. Text Processing: Using Spacy and NLTK to process the content of the email:
