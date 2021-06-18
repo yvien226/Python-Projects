@@ -14,6 +14,7 @@ The data set is taken from the [UrbanSound8K](https://urbansounddataset.weebly.c
 - siren
 - street music
 
+## Notebooks
 The work includes the following notebooks:
 1. [UrbanSound8k Data Exploration and Visualisation](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Urban%20Sound%20Recognition/1.UrbanSound8K%20Data%20Exploration%20and%20Visualisation.ipynb): Explore the data sets 
 2. [Data Preprocessing](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Urban%20Sound%20Recognition/2.%20Data%20Preprocessing.ipynb): Data preparation using Librosa to normalise the audio channel, sample rate and bit depth of the audio file for consistency. 
