@@ -2,7 +2,7 @@
 
 The main objective of this project is to identify the sound events from the urban area using Machine Learning with Netural Networks. 
 
-The data set is taken from the UrbanSound8K(https://urbansounddataset.weebly.com/urbansound8k.html). This dataset contains 8732 labelled sound excepts of urban sounds from 10 classes:
+The data set is taken from the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html). This dataset contains 8732 labelled sound excepts of urban sounds from 10 classes:
 - air conditioner
 - car horn
 - children playing
