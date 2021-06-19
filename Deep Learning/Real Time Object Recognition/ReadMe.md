@@ -21,4 +21,4 @@ You will need to install Tensorflow and a pre-trained model in order to run the 
 - pandas
 - openCV
 - tensorflow
-- matplotlib (not using in the script)
+- matplotlib (not used in the script)
