@@ -13,8 +13,8 @@ You will need to install Tensorflow and a pre-trained model in order to run the 
 
 ## Scripts
 
-1. [OD_object_detection_tutorial_webcamPY](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition/OD_object_detection_tutorial_webcamPY.py): Real time object recognition via computer webcam using Faster RCNN Inception pre-trained model
-2. [OD_object_detection_count_livegraph](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition/OD_object_detection_count_livegraph.py) : Real time object recognition and counting people. The number of people detected during the real time event is recorded in the excel file ( object_detection_count_results.xlsx). The idea is to produce a real time human detection and counting.
+1. [OD_object_detection_tutorial_webcamPY](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition/OD_object_detection_tutorial_webcamPY.py): Real time object recognition through computer webcam using Faster RCNN Inception pre-trained model
+2. [OD_object_detection_count_livegraph](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition/OD_object_detection_count_livegraph.py) : Real time object recognition and counting people through webcam using the same pre-trained model. The number of people detected during the real time event is recorded live in the excel file ( object_detection_count_results.xlsx). The idea is to produce a real time human detection and counting.
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/34856605/122636566-49fd4280-d12d-11eb-8c50-5c057779813d.png)
