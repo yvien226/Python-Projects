@@ -17,8 +17,7 @@ You will need to install Tensorflow and a pre-trained model in order to run the 
 2. [OD_object_detection_count_livegraph](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition/OD_object_detection_count_livegraph.py) : Real time object recognition and counting people. The number of people detected during the real time event is recorded in the excel file ( object_detection_count_results.xlsx). The idea is to produce a real time human detection and counting.
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/34856605/122636506-fc80d580-d12c-11eb-8abf-2c5fe4ae675a.png)
-
+![image](https://user-images.githubusercontent.com/34856605/122636566-49fd4280-d12d-11eb-8c50-5c057779813d.png)
 
 ## Python Libraries
 - numpy
