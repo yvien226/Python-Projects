@@ -18,10 +18,10 @@ Unfortunately I can't share the model as it belongs to the company, but CWW has 
 
 ## Scripts
 
-1. [OD_object_detection_tutorial_webcamPY](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Real%20Time%20Object%20Recognition/OD_object_detection_tutorial_webcamPY.py): Real time object recognition through computer webcam using Faster RCNN Inception pre-trained model
+1. [Object_detection_cctv](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Object_detection_cctv.py): Reads CCTV video footage video file and process with trained deep learning model
 
 
-## Screenshot
+## Outcome
 ![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Tensorflow%20sewer%20pipe%20analysis.gif)
 
 ## Python Libraries
@@ -29,5 +29,5 @@ Unfortunately I can't share the model as it belongs to the company, but CWW has 
 - pandas
 - openCV
 - tensorflow
-- matplotlib (not used in the script)
+- keras
 
