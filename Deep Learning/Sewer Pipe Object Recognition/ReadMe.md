@@ -13,7 +13,7 @@ The model has been developed utilising 2 key open souces, Tensorflow and [LabelI
 
 The machine learning model generates a reasonably precise and accurate with mAP of 0.40 and a total loss of 0.21. Its strength lies particularly in tree roots while voids are less detectable. Overall there are many ways to improve the model such as performing data augmentation to increase more images with different types of pipe, but this is a good first attempt to automate sewer pipe defects.
 
-Unfortunately I can't share the model as it belongs to the company, but CWW has posted video clip of the outcome via LinkedIn, click [here](https://www.linkedin.com/posts/city-west-water_machinelearning-innovation-activity-6481329039096320000-vPgW/) to watch or see results of video clip below.
+Unfortunately I can't share the model as it belongs to the company, but CWW has posted video clip of the outcome via LinkedIn, check out the outcome below
 
 
 ## Script
@@ -30,6 +30,9 @@ Unfortunately I can't share the model as it belongs to the company, but CWW has 
 
 
 ## Outcome (video)
+
+Click [here](https://www.linkedin.com/posts/city-west-water_machinelearning-innovation-activity-6481329039096320000-vPgW/) to check out the original post from City West Water in LinkedIn
+
 ![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Tensorflow%20sewer%20pipe%20analysis.gif)
 
 ## Outcome (Images)
