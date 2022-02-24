@@ -16,13 +16,21 @@ The machine learning model generates a reasonably precise and accurate with mAP 
 Unfortunately I can't share the model as it belongs to the company, but CWW has posted video clip of the outcome via LinkedIn, click [here](https://www.linkedin.com/posts/city-west-water_machinelearning-innovation-activity-6481329039096320000-vPgW/) to watch or see results of video clip below.
 
 
-## Scripts
+## Script
 
-1. [Object_detection_cctv](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Object_detection_cctv.py): Reads CCTV video footage video file and process with trained deep learning model
+[Object_detection_cctv](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Object_detection_cctv.py): Reads CCTV video footage video file and process with trained deep learning model
 
 
-## Outcome
+## Outcome (video)
 ![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Tensorflow%20sewer%20pipe%20analysis.gif)
+
+## Outcome (Sample image taken from public search engine)
+See Sample Image and Sample Image Results
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/1_result.jpg)
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/8_result.jpg)
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/7_result.jpg)
+
+
 
 ## Python Libraries
 - numpy
