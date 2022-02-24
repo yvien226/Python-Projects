@@ -21,21 +21,26 @@ Unfortunately I can't share the model as it belongs to the company, but CWW has 
 [Object_detection_cctv](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Object_detection_cctv.py): Reads CCTV video footage video file and process with trained deep learning model
 
 
-## Outcome (video)
-![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Tensorflow%20sewer%20pipe%20analysis.gif)
-
-## Outcome (Sample image taken from public search engine)
-See Sample Image and Sample Image Results
-![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/1_result.jpg)
-![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/8_result.jpg)
-![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/7_result.jpg)
-
-
-
 ## Python Libraries
 - numpy
 - pandas
 - openCV
 - tensorflow
 - keras
+
+
+## Outcome (video)
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Tensorflow%20sewer%20pipe%20analysis.gif)
+
+## Outcome (Images)
+
+The following images are taken from public search engine and process them with the deep learning model.
+
+See [Sample Image](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image) and [Sample Image Results](https://github.com/yvien226/Useful-Python-Scripts/tree/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results) folders
+
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/1_result.jpg)
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/8_result.jpg)
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Sample%20Image%20Results/7_result.jpg)
+
+
 
