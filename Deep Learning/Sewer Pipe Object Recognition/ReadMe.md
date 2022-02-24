@@ -22,7 +22,7 @@ Unfortunately I can't share the model as it belongs to the company, but CWW has 
 
 
 ## Screenshot
-![](https://im2.ezgif.com/tmp/ezgif-2-5158d0373a.gif)
+![](https://github.com/yvien226/Useful-Python-Scripts/blob/master/Deep%20Learning/Sewer%20Pipe%20Object%20Recognition/Tensorflow%20sewer%20pipe%20analysis.gif)
 
 ## Python Libraries
 - numpy
