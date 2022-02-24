@@ -2,7 +2,7 @@
 
 This folder contains machine learning models implemented by researchers in [TensorFlow](https://tensorflow.org). The models are maintained by their respective authors.
 
-This is one of the projects I used to work in City West Water as part of the proof of concept. The aim is to assess video footage of sewerage pipes automatically and identify irregularities. For example: cracks, tree roots and void (hole). 
+This is a project that I used to work in City West Water as part of the proof of concept. The aim is to assess video footage of sewerage pipes automatically and identify irregularities. For example: cracks, tree roots and void (hole). The purpose of this project is to define a pathway for integrating the model into standard sewer pipe asset management processes and potential ideal future state.
 
 
 ## Approach
