@@ -21,7 +21,7 @@ Create an environment and install the required python libraries (environment.yam
   - Run the chat.py script, `> python chat.py`
 
 ## Sample Screenshot
-![image](https://user-images.githubusercontent.com/34856605/122636566-49fd4280-d12d-11eb-8c50-5c057779813d.png)
+![image](https://github.com/yvien226/Useful-Python-Scripts/blob/master/NLP/Resume%20Chatbot/sample_chat.png)
 
 ## Python Libraries
 - numpy
