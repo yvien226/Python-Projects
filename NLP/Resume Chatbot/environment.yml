@@ -1,0 +1,11 @@
+# run this code to create environment: conda env create -f environment.yml
+name: chtbot
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - nltk
+  - tensorflow
+  - flask
+  - ipykernel
+prefix: C:\Users\yv\Anaconda3\envs\chtbot
