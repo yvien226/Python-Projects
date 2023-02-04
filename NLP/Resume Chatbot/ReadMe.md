@@ -8,8 +8,8 @@ Create an environment and install the required python libraries (environment.yam
 
 ## Scripts
 
-1. [Build Resume chatbot.ipynb](): The notebook to extract json data from data/ folder, process, train and save the model (/model folder)
-2. [chat.py]() : loads the model and runs the chatbot
+1. [Build Resume chatbot.ipynb](https://github.com/yvien226/Useful-Python-Scripts/blob/master/NLP/Resume%20Chatbot/Build%20Resume%20chatbot.ipynb): The notebook to extract json data from data/ folder, process, train and save the model (/model folder)
+2. [chat.py](https://github.com/yvien226/Useful-Python-Scripts/blob/master/NLP/Resume%20Chatbot/chat.py) : loads the model and runs the chatbot
 
 ## Steps by step guide
 1. Model training
