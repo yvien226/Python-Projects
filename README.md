@@ -1,2 +1,2 @@
 # Python Scripts
-Repo for python scripts and projects
+Repo for python scripts, projects and code snippets
