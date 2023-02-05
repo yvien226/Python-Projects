@@ -1,2 +1,2 @@
-# Python_Scripts
-Library to store useful python scripts that I've written
+# Python Scripts
+Repo for python scripts and projects
